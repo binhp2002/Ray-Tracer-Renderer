@@ -6,6 +6,7 @@
 
 • Enable ambient and specular terms for shading and cast rays at light sources to create shadow while also including reflection of objects onto the surface.
 
+• Click "1" to "-" to render each of the 11 ray tracing scene as seen below
 
 
 ![image](https://user-images.githubusercontent.com/71167313/213613652-1c8b32f0-27dd-4c97-9428-ce7eecd5c342.png)
